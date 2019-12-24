@@ -1,0 +1,35 @@
+---
+layout: post
+title:  务农
+date:   2019-10-29 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: post-1.jpg # Add image post (optional)
+tags: [博客, 随写记录]
+author: 油条 # Add name author (optional)
+---
+
+ * 还是挺想念凌晨4:00点的星河丹堤
+ 
+ * 当然还有布拉德·皮皮
+ 
+ * 想回家看看，吃咸茶，做做家乡人
+ 
+ * 清光债务，稳定下来 ,早日回家
+ 
+ * 只是现在书写都不太方便
+ 
+ * 不然还可以多写一点
+ 
+ * 先随便写写，后期再修改
+ 
+ * 不舒服，感觉还是挣的太少，要再挣多一点，最好是发财，生意最好要执行快点呀
+ 
+ * 大哥的水平还是别说了，你就别说话了。我都不好意思抨击你（这条先挂个一星期）
+ 
+ * 总归是一切慢慢好起来，现在danshui房价怎么样。想现在借一点先买了，平时的这种期盼太难受了，总感觉太长远
+	
+	<div class="footer">
+		&copy; 更新于2019.11.2 AM.11:10
+    </div>
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg) 
